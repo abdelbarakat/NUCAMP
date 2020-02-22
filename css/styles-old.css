@@ -1,0 +1,44 @@
+body {
+  font-family: "Open Sans", sans-serif; }
+
+h1, h2, h3 {
+  font-family: "Lobster", cursive; }
+
+header h2 {
+  color: #CEC8FF; }
+
+footer {
+  background-image: linear-gradient(#CEC8FF, #5637dd);
+  padding: 20px 0; }
+
+.jumbotron {
+  padding: 30px;
+  background-image: linear-gradient(to right, #5637dd, #3046C5, #60106b);
+  color: white;
+  margin: 1px; }
+
+.navbar {
+  background-color: #901CAD; }
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px; }
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, #5637dd);
+  padding: 20px 0px; }
+
+.carousel-caption {
+  background-color: color-transparent-black; }
+
+.carousel {
+  border: #5637dd; }
+
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0; }
+
+.reserveModal {
+  background-color: #CEC8FF; }
